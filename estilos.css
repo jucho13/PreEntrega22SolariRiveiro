@@ -3,18 +3,25 @@
 {
     font-family: 'Lato', sans-serif;
 }
+.navbar-brand
+{
+    background-color: gold;
+}
 .navbar-brand span
 {
     color: chocolate;
 }
 .navbar-nav
 {
-    text-align: rigth;
+    background-color: beige;
+}
+.container-fluid
+{
     background-color: beige;
 }
 .carousel
 {
-    padding: 25px;
+    padding: 15px;
 }
 .carousel-item h5
 {
@@ -26,9 +33,14 @@
     background-color: black;
     opacity: 20%;
 }
+.section1
+{
+    padding: 60px;
+    background-color: beige;
+}
 footer
 {
-    background-color: beige;
+    background-color: gold;
     color: chocolate;
     text-align: center;
     font-size: 30px;
