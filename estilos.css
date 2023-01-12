@@ -15,9 +15,9 @@
 {
     background-color: beige;
 }
-.container-fluid
+.container
 {
-    background-color: beige;
+    background-color: beige ;
 }
 .carousel
 {
@@ -33,7 +33,27 @@
     background-color: black;
     opacity: 20%;
 }
+h2
+{
+    text-align: center;
+    padding: 20px;
+}
 .section1
+{
+    padding: 60px;
+    background-color: beige;
+}
+.section2
+{
+    padding: 60px;
+    background-color: beige;
+}
+.section3
+{
+    padding: 60px;
+    background-color: beige;
+}
+.section4
 {
     padding: 60px;
     background-color: beige;
