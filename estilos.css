@@ -12,3 +12,45 @@
     text-align: rigth;
     background-color: beige;
 }
+.carousel
+{
+    padding: 25px;
+}
+.carousel-item h5
+{
+    background-color: black;
+    opacity: 20%;
+}
+.carousel-item p
+{
+    background-color: black;
+    opacity: 20%;
+}
+footer
+{
+    background-color: beige;
+    color: chocolate;
+    text-align: center;
+    font-size: 30px;
+    font-family:'Lato', sans-serif;
+    text-transform: capitalize;
+    padding: 20px;
+}
+footer i
+{
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: #333;
+}
+.subir
+{
+    height: 40px;
+    width: 40px;
+    background-color: black;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+}
