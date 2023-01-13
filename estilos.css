@@ -53,6 +53,19 @@ h2
     padding: 60px;
     background-color: beige;
 }
+h2
+{
+    background-color: beige;
+}
+.form-group
+{
+    padding: 15px;
+}
+.card
+{
+    padding: 20px;
+    margin: 20px;
+}
 .section4
 {
     padding: 60px;
@@ -67,6 +80,7 @@ footer
     font-family:'Lato', sans-serif;
     text-transform: capitalize;
     padding: 20px;
+    margin: 20px;
 }
 footer i
 {
